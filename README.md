@@ -5,12 +5,15 @@ this distribution, and is available at https://www.eclipse.org/legal/epl-v20.htm
 SPDX-License-Identifier: EPL-2.0
 
 Copyright Contributors to the Zowe Project.
+
+![Zowe logo](https://i.imgur.com/AxHe5p7.png)
 # zlux-app-server
 This is the default setup of the Zowe App Server, built upon the zLUX framework. Within, you will find a collection of build, deploy, and run scripts as well as configuration files that will help you to configure a simple zLUX server with a few Apps included.
 
 **To request features or report bugs, please use the issues page at the [zlux repo](https://github.com/zowe/zlux/issues) with the server infrastructure or server security tags**
 
 ## Introduction
+
 
 ### What is Zowe?
 Zowe is an open source project created to host technologies that benefit the Z platform from all members of the Z community (Integrated Software Vendors, System Integrators and z/OS consumers). Zowe, like Mac OS or Windows, comes with a set of APIs and OS capabilities with a virtual web desktop that offers a modern interface to interact with z/OS in a way that is similar to what you experience on cloud platforms today.
